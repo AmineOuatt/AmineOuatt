@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**AmineOuatt/AmineOuatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ouattas Amine!
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I’m a passionate developer interested in **web development, AI, game development, and IT design**.  
+- 🌱 Currently learning **cybersecurity**.  
+- 💡 I love building **open-source tools, full-stack applications, and automation scripts**.  
+- 🎯 My goal: ]** ,** [  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Java, Python, C  
+- **Tools & Platforms:** Git, VS Code, Linux  
+
+---
+
+### 📫 Let's Connect!
+
+📧 amine2.ouattas@gmail.com  
+
+---
+
+⭐ **Like what you see?** Consider following me and checking out my work! 🚀
